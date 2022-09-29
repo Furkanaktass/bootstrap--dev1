@@ -1,0 +1,81 @@
+.nav{
+    list-style-position:inside;
+    list-style-type:none;
+    text-decoration:none;
+}
+ul{
+    height: 50px;
+    background-color: rgb(198, 60, 145);
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family:sans-serif;
+}
+ul li a{
+    display: block;
+    color: white;
+    font-size: 15px;
+    padding: 0 15px;
+    line-height: 50px;
+}
+.name{
+    font-size: 24px;
+    color: white;
+}
+.col-sm-1{
+    background-color: rgb(198, 60, 145);
+    margin: 0px;
+    line-height: 48px;
+    text-align: center;
+}
+.col-sm-11{
+    margin: 0;
+    padding: 0%;
+}
+div img{
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.hg{
+    text-align: center;
+    color:rgb(35, 30, 30);
+    font-size: 220%;
+    margin-top: 1%;
+}
+.aciklama{
+    font-size: large;
+    text-align: center;
+    color: rgb(94, 94, 94);
+    margin-top: 1%;
+}
+
+
+
+
+
+
+.baslik{
+    text-align: center;
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 1%;
+}
+
+
+
+
+.hakkimiz{
+    color: rgb(199, 86, 105);
+    text-align: center;
+}
+
+.vizyon{
+    color: rgb(199, 86, 105);
+    text-align: center;
+}
+.vzyn{
+    margin-top: 2%;
+}
